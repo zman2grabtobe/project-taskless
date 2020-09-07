@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="gray_backgroud">
       <img src={logo} lat="logo"/>
-      <h2>Develop Taskless</h2>
+      <h2>Develop Taskless ! </h2>
     </div>
   );
 }
